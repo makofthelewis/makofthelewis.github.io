@@ -1,0 +1,20 @@
+h1{
+	font-size: 250%;
+	font-family: 'Comfortaa', cursive;
+	color:black;
+}
+.zone{
+	border:solid;
+	background-color:#99ff99;
+}
+.nav{
+	float:left;
+	width: 30%;
+}
+.Welcome{
+	float: left;
+	background-color: white;
+	font-size: 120%;
+	width: 60%;
+	margin: auto;
+}
