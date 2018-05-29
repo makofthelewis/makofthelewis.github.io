@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Makofthelewis</title>
+	<link rel="stylesheet" type="text/css" href="makofthelewispillow.css">
+	<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+</head>
+<body>
+
+<div class="zone">
+	<h1>Makofthelewis's zone</h1>
+</div>
+<p></p>
+<div class="nav">
+	<a href="index.html">Home</a>
+	<p></p>
+	<a href="makofthelewispillow.html">My Pillows</a>
+</div>
+<div class="Welcome">
+	<h1 class="welcome">Welcome to my site</h1>
+	<p>
+		Hello everybody, I am Makofthelewis but my real name is Lewis Hang.  I usually draw when I'm bored.  But they are actually many things to do in the whole entire world.  I was sometimes a good student in my school.  But I have never bullied anyone and I have never been bullied.  I actually had a good life. I have been getting new friends every year.  
+	</p>
+	<p>
+	</p>
+	<p>
+		In this site,you can see many things about me.  You can discover things about me on the other pages.
+		The other pages has more things about me so you can go to the pages to learn more about me.  
+</div>
+</body>
+</html>
